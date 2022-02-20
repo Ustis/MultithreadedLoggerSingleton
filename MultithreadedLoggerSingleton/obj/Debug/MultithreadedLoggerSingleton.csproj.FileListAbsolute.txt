@@ -1,0 +1,8 @@
+D:\Dev\C\Rider\MultithreadedLoggerSingleton\MultithreadedLoggerSingleton\bin\Debug\MultithreadedLoggerSingleton.exe
+D:\Dev\C\Rider\MultithreadedLoggerSingleton\MultithreadedLoggerSingleton\bin\Debug\MultithreadedLoggerSingleton.pdb
+D:\Dev\C\Rider\MultithreadedLoggerSingleton\MultithreadedLoggerSingleton\obj\Debug\MultithreadedLoggerSingleton.csproj.AssemblyReference.cache
+D:\Dev\C\Rider\MultithreadedLoggerSingleton\MultithreadedLoggerSingleton\obj\Debug\MultithreadedLoggerSingleton.csproj.SuggestedBindingRedirects.cache
+D:\Dev\C\Rider\MultithreadedLoggerSingleton\MultithreadedLoggerSingleton\obj\Debug\MultithreadedLoggerSingleton.csproj.CoreCompileInputs.cache
+D:\Dev\C\Rider\MultithreadedLoggerSingleton\MultithreadedLoggerSingleton\obj\Debug\MultithreadedLoggerSingleton.exe
+D:\Dev\C\Rider\MultithreadedLoggerSingleton\MultithreadedLoggerSingleton\obj\Debug\MultithreadedLoggerSingleton.pdb
+D:\Dev\C\Rider\MultithreadedLoggerSingleton\MultithreadedLoggerSingleton\bin\Debug\MultithreadedLoggerSingleton.exe.config
